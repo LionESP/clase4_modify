@@ -251,7 +251,7 @@ hr
 {
 	overflow: hidden;
 	height: 500px;
-	background: url('images/tmv_portada_7.png') no-repeat top center;
+	background: url('../images/tmv_portada_7.png') no-repeat top center;
 	background-size: 100%;
 }
 
@@ -263,7 +263,7 @@ hr
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('images/bg01.png');
+	background-image: url('../images/bg01.png');
 	opacity: .1;
 }
 
